@@ -1,0 +1,9 @@
+name: default-a
+
+b:
+  name: changed-b
+  c:
+    name: changed-bc
+
+c:
+  name: changed-c
